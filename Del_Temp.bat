@@ -1,7 +1,8 @@
 #BatchScript
-#title 		: Del_Temp.bat
-#description 	: This Script is to delete Temp Files
+#title 		:Del_Temp.bat
+#description 	:This Script is to delete Temp Files
 #author 	:JohnBedeir
+#website	:johnydesigns.com
 #date		:16Apr20
 
 @echo off
